@@ -1,7 +1,7 @@
 # Relembrando git e github
 
 ## O que é git e github?
-O git é uma ferramenta de verisonamento de código e o github é uma local para armazenarmos os repositórios de forma remota, isso permite que acessamos o nosso projeto em qualquer lugar e qualquer máquina.
+O git é uma ferramenta de controle de versão e o github é um local para armazenar os repositórios de forma remota, isso permite que acessamos o nosso projeto em qualquer lugar e em qualquer máquina.
 
 ## Comandos básicos
 * git status: informa o status do repositório;
