@@ -1,2 +1,4 @@
 # desafio-github-primeiro-repositorio
-desafio de projeto sobre git/github
+
+## Conteúdo estudado no bootcamp: adiciona
+* [Criando o primeiro projeto no github](./Criando-Primeiro-Repositorio/revisao-git.md)
